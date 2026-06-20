@@ -1,7 +1,7 @@
 
 <div align="center">
 
-$\text{\color{#7e3dff} 𝐷𝐼𝐷 }$ $\text{\color{#ff9edd} 0𝑆𝐷𝐷1𝐵 }$ $\text{\color{#84ff88} 𝐒𝐘𝐒𝐓𝐄𝐌 }$ 
+(  $\text{\color{#7e3dff} 𝐷𝐼𝐷 }$ $\text{\color{#ff9edd} 0𝑆𝐷𝐷1𝐵 }$ $\text{\color{#84ff88} 𝐒𝐘𝐒𝐓𝐄𝐌 }$  ) 
 
 <img width="370" alt="1000084449" src="https://github.com/user-attachments/assets/fdb1334a-7912-4e75-a8d9-07ebe163ba6f" />
 
